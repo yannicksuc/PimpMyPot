@@ -1,0 +1,6 @@
+name: PimpMyPot
+version: '1.0-SNAPSHOT'
+main: fr.lordfinn.pimpMyPot.PimpMyPot
+api-version: '1.21'
+authors: [ LordFinn ]
+website: https://sandboxbt.com/
