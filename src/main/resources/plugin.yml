@@ -1,5 +1,5 @@
 name: PimpMyPot
-version: '1.0-SNAPSHOT'
+version: '1.0'
 main: fr.lordfinn.pimpMyPot.PimpMyPot
 api-version: '1.21'
 authors: [ LordFinn ]
