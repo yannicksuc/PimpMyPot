@@ -1,6 +1,6 @@
 # PimpMyPot
 
-**Version:** 1.0-SNAPSHOT | **Minecraft:** 1.21+ | **Author:** LordFinn  
+**Version:** 1.0 | **Minecraft:** 1.21+ | **Author:** LordFinn  
 
 ---
 
